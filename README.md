@@ -27,7 +27,7 @@ A counter that is used to count postive and negative numbers
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Amalkrishnanvp/Quote-Generator.git
+   git clone https://github.com/Amalkrishnanvp/Counter.git
    ```
 
 2. **Run the project**
